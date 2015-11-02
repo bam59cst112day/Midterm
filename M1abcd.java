@@ -1,6 +1,8 @@
 //// Midterm code for 59CST112
 // MORE CHANGES MADE.  NOW, I'll do another pull request!
 
+// THIS is another change, made AFTER my pull request.
+
 /**************************************************************
 BE SURE TO CHANGE THE NEXT SEVERAL LINES, USING YOUR REAL NAME.
 
