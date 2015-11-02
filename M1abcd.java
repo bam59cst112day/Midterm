@@ -1,17 +1,20 @@
 //// Midterm code for 59CST112
+// MORE CHANGES MADE.  NOW, I'll do another pull request!
+
+// THIS is another change, made AFTER my pull request.
 
 /**************************************************************
 BE SURE TO CHANGE THE NEXT SEVERAL LINES, USING YOUR REAL NAME.
 
-    MY FIRST NAME IS......Xerxes
-    MY MIDDLE NAME IS.....Yolanda
-    MY LAST NAME IS.......Zero
+    MY FIRST NAME IS......Adam
+    MY MIDDLE NAME IS.....Bruce
+    MY LAST NAME IS.......Crystal
     
 PICK 3 WORDS THAT START WITH YOUR INITIALS, using lower case letters:
 
-    first word............xyst
-    second word...........yclept
-    third word............zed
+    first word............apple
+    second word...........bam
+    third word............cue
     
 USE THESE 3 WORDS TO NAME ALL VARIABLES FOR 3 POOL BALLS.
 (You may abbreviate any words, but start with same letter.)
